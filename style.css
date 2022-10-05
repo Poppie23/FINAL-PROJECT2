@@ -1,0 +1,89 @@
+header{
+    font-style: italic;
+    font-size: x-large;
+    padding: 10px;
+}
+
+body{
+    background-image: url(/95097lx.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+.logo{
+    width: 100px;
+    float: top;
+    padding-bottom: 40px;
+}
+
+h1{
+     text-align: center;
+     color: green;
+}
+
+ul{
+    text-align: right;
+    float: right;
+    margin-top: auto;
+}
+nav{
+    float: right;
+    margin-top: -80px;
+    color: palevioletred;
+}
+
+p{
+    color: rgb(3, 3, 27);
+    font-size: larger;
+}
+
+img{
+    border-radius: 50%;
+}
+
+h2{
+    background-color: blueviolet;
+}
+
+li{
+  list-style-type: none;
+  text-decoration: none;
+}
+ 
+label, input, selec, textarea {
+    display: block;
+    width: 25%;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+iframe{
+float: right;
+}
+
+/* footer{
+   background-color: coral;
+   text-align: center;
+} */
+footer{
+    background-color: chocolate;
+    text-align: center;
+    position: relative;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+
+i{
+
+    color: blueviolet;
+}
+
+
+    
+
+
+    

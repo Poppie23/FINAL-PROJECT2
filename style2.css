@@ -1,0 +1,56 @@
+header{
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+h1{
+    color: green;
+}
+
+h2{
+    color: green;
+}
+
+.logo{
+    width: 100px;
+    float: top;
+    padding-bottom: 60px;
+}
+
+li{
+    list-style-type: none;
+    text-decoration: none;
+}
+/* nav{
+    float: right;
+    margin-top: -80px;
+    color: palevioletred; */
+
+body{
+ background-color: burlywood;
+}
+ 
+footer{
+    background-color: coral;
+    text-align: center;
+    font-size: medium;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    bottom: 0%;
+}
+ 
+nav{
+    float: right;
+    margin-top: -80px;
+    color: palevioletred;
+}
+
+label
+{ color: brown;
+    border-radius: 10%;
+}
+
