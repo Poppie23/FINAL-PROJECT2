@@ -5,11 +5,13 @@ header{
 }
 
 body{
-    background-image: url(/95097lx.webp);
+    background-image: url(rikonavt-oEWdQsbRVZk-unsplash.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%;
+    background-size: cover;
     font-family: 'Dancing Script', cursive;
+    background-position: center;
+    color: chartreuse;
 }
 
 
@@ -21,7 +23,7 @@ body{
 
 h1{
      text-align: center;
-     color: green;
+     color: chartreuse;
 }
 
 ul{
@@ -36,7 +38,7 @@ nav{
 }
 
 p{
-    color: rgb(3, 3, 27);
+    color: chartreuse;
     font-size: larger;
 }
 
@@ -80,6 +82,9 @@ footer{
 i{
 
     color: blueviolet;
+}
+a:visited{
+    color: green;
 }
 
 
